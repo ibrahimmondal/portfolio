@@ -26,19 +26,19 @@ const sitemap = [
 const socials = [
   {
     label: "GitHub",
-    href: "https://www.github.com/aiman-shafi",
+    href: "https://github.com/ibrahimmondal",
   },
   {
     label: "LinkedIn",
-    href: "https://www.linkedin.com/in/aimanshafi",
+    href: "https://www.linkedin.com/in/ibrahim-mondal-151070286/",
   },
-  {
-    label: "Twitter X",
-    href: "https://x.com/aimanshafi",
-  },
+  // {
+  //   label: "Twitter X",
+  //   href: "https://x.com/aimanshafi",
+  // },
   {
     label: "Instagram",
-    href: "https://www.instagram.com/aimanshafi___",
+    href: "https://www.instagram.com/ibrahimmondal5085/",
   },
 ];
 
@@ -104,7 +104,7 @@ const Footer = () => {
           </a>
 
           <p className="text-zinc-500 text-sm reveal-up">
-            &copy; 2024 <span className="text-zinc-200">aimanshafi</span>
+            &copy; 2025 <span className="text-zinc-200">Ibrahim mondal</span>
           </p>
         </div>
       </div>
