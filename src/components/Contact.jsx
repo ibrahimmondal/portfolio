@@ -102,7 +102,7 @@ const Contact = () => {
         </div>
 
         <form
-          action="https://getform.io/f/bwngmzya"
+          action="https://formspree.io/f/xldglwyw"
           method="POST"
           className="xl:pl-10 2xl:pl-20"
         >
@@ -118,7 +118,7 @@ const Contact = () => {
                 id="name"
                 autoComplete="name"
                 required
-                placeholder="Aiman"
+                placeholder="Ibrahim"
                 className="text-field reveal-up"
               />
             </div>
@@ -134,7 +134,7 @@ const Contact = () => {
                 id="email"
                 autoComplete="email"
                 required
-                placeholder="aiman@example.com"
+                placeholder="ibrahim@example.com"
                 className="text-field reveal-up"
               />
             </div>
