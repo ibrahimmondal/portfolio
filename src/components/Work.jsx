@@ -49,6 +49,12 @@ const works = [
     tags: ["Web-design", "Development", "Tailwind CSS"],
     projectLink: "https://real-estate-ivory-beta.vercel.app/",
   },
+  {
+    imgSrc: "/images/my.jpg",
+    title: "Banking website",
+    tags: ["Web-design", "Development", "Tailwind CSS", "Next.js"],
+    projectLink: "https://banquee-1245.vercel.app/",
+  },
 ];
 
 const Work = () => {

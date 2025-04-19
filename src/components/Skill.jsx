@@ -56,6 +56,17 @@ const skillItem = [
     label: "Wordpress",
     // desc: "CMS",
   },
+  {
+    imgSrc: "/images/github.svg",
+    label: "GitHub",
+    // desc: "Version Control",
+  },
+  {
+    imgSrc: "/images/figma.svg",
+    label: "Figma",
+    // desc: "Design tool",
+  },
+  
 ];
 
 const Skill = () => {
